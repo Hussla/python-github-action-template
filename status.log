@@ -1,2 +1,7 @@
-2025-08-17 17:19:56,680 - __main__ - INFO - Token value: Token not available!
-2025-08-17 17:41:25,075 - __main__ - INFO - Token value: Token not available!
+2025-08-17 17:51:58,696 - __main__ - INFO - Token value: Token not available!
+2025-08-17 17:51:59,276 - __main__ - ERROR - API request failed with status code: 429
+2025-08-17 17:51:59,277 - __main__ - ERROR - Error message: Too many requests from your IP address. We limit our service to 50 unique lookups per hour. Please wait 1 hour before making another request for your access to reset.
+2025-08-17 17:56:06,707 - __main__ - INFO - Token value: Token not available!
+2025-08-17 17:56:07,278 - __main__ - WARNING - API rate limit exceeded (status code: 429). This is temporary and will reset automatically.
+2025-08-17 17:56:07,280 - __main__ - WARNING - Error message: Too many requests from your IP address. We limit our service to 50 unique lookups per hour. Please wait 1 hour before making another request for your access to reset.
+2025-08-17 17:56:07,280 - __main__ - INFO - Next run will occur in 1 hour due to updated schedule.
