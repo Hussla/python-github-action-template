@@ -745,3 +745,5 @@
 2025-08-26 04:18:05,865 - __main__ - WARNING - API rate limit exceeded (status code: 429). This is temporary and will reset automatically.
 2025-08-26 04:18:05,905 - __main__ - WARNING - Error message: Too many requests from your IP address. We limit our service to 50 unique lookups per hour. Please wait 1 hour before making another request for your access to reset.
 2025-08-26 04:18:05,905 - __main__ - INFO - Next run will occur in 1 hour due to updated schedule.
+2025-08-26 05:15:00,628 - __main__ - INFO - Token value: 1234
+2025-08-26 05:15:00,655 - __main__ - ERROR - Exception occurred during API request: HTTPSConnectionPool(host='weather.talkpython.fm', port=443): Max retries exceeded with url: /api/weather/?city=Berlin&country=DE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1cd506d5e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
